@@ -1,3 +1,5 @@
+
+
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 /* Log on to codeastro.com for more projects */
@@ -48,3 +50,4 @@ class Home extends CI_Controller {
 
 /* End of file Home.php */
 /* Location: ./application/controllers/Home.php */
+

@@ -1,3 +1,4 @@
+
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
@@ -111,5 +112,7 @@ class Getkod_model extends CI_Model {
     }
 }
 
+
 /* End of file getkod_model.php */
 /* Location: ./application/models/getkod_model.php */
+
